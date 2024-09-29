@@ -1,1 +1,2 @@
 # TestOtomasyon
+Ödev için düzenleme
