@@ -1,0 +1,11 @@
+<person>
+	<name>Kubra Sen</name>
+	<age>37</age>
+	<address>
+		<street>Bostancı 456</street>
+		<city>Bodrum</city>
+		<state>oP</state>
+		<zipcode>9876</zipcode>
+	</address>
+	<email>kubisen@example.com</email>
+</person>

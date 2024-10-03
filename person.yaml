@@ -1,0 +1,10 @@
+---
+person:
+  name: ISmail
+  age: 30
+  address:
+    street: Kartal
+    city: Istanbul
+    state: ISO
+    zipcode: 7896
+  email: ödev3@hotmail.com
